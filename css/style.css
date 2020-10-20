@@ -1,0 +1,17 @@
+body {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRBaZI6SKB5faQOn7KDvtYay7finydihdLBng&usqp=CAU");
+    font-family: arial;
+}
+h1 {font-size: 22px}
+a { color: #000000;
+ text-decoration: underline;}
+ a:hover { color: ¤000000;
+text-decoration: none;}
+h3 {
+    font-size: 18px;}
+h4 {
+    font-size: 18px;}
+h5 {
+    font-size: 18px;}
+p {
+    font-size: 16px; }
